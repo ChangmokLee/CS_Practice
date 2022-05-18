@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mokca\\Desktop\\CS Practice\\SignedUnsigned\\SignedUnsigned\\SignedUnsigned.csproj",
+      "projectUniqueName": "C:\\Users\\mokca\\Desktop\\CS Practice\\SignedUnsigned\\SignedUnsigned.csproj",
       "projectName": "SignedUnsigned",
-      "projectPath": "C:\\Users\\mokca\\Desktop\\CS Practice\\SignedUnsigned\\SignedUnsigned\\SignedUnsigned.csproj",
+      "projectPath": "C:\\Users\\mokca\\Desktop\\CS Practice\\SignedUnsigned\\SignedUnsigned.csproj",
       "packagesPath": "C:\\Users\\mokca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mokca\\Desktop\\CS Practice\\SignedUnsigned\\SignedUnsigned\\obj\\",
+      "outputPath": "C:\\Users\\mokca\\Desktop\\CS Practice\\SignedUnsigned\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mokca\\AppData\\Roaming\\NuGet\\NuGet.Config",
