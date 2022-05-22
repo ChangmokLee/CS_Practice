@@ -1,0 +1,15 @@
+C:\Users\mokca\Desktop\CS Practice\char\bin\Debug\net6.0\char.exe
+C:\Users\mokca\Desktop\CS Practice\char\bin\Debug\net6.0\char.deps.json
+C:\Users\mokca\Desktop\CS Practice\char\bin\Debug\net6.0\char.runtimeconfig.json
+C:\Users\mokca\Desktop\CS Practice\char\bin\Debug\net6.0\char.dll
+C:\Users\mokca\Desktop\CS Practice\char\bin\Debug\net6.0\char.pdb
+C:\Users\mokca\Desktop\CS Practice\char\obj\Debug\net6.0\char.csproj.AssemblyReference.cache
+C:\Users\mokca\Desktop\CS Practice\char\obj\Debug\net6.0\char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mokca\Desktop\CS Practice\char\obj\Debug\net6.0\char.AssemblyInfoInputs.cache
+C:\Users\mokca\Desktop\CS Practice\char\obj\Debug\net6.0\char.AssemblyInfo.cs
+C:\Users\mokca\Desktop\CS Practice\char\obj\Debug\net6.0\char.csproj.CoreCompileInputs.cache
+C:\Users\mokca\Desktop\CS Practice\char\obj\Debug\net6.0\char.dll
+C:\Users\mokca\Desktop\CS Practice\char\obj\Debug\net6.0\refint\char.dll
+C:\Users\mokca\Desktop\CS Practice\char\obj\Debug\net6.0\char.pdb
+C:\Users\mokca\Desktop\CS Practice\char\obj\Debug\net6.0\char.genruntimeconfig.cache
+C:\Users\mokca\Desktop\CS Practice\char\obj\Debug\net6.0\ref\char.dll
